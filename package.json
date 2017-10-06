@@ -1,0 +1,25 @@
+{
+  "name": "etlogger",
+  "version": "0.0.1",
+  "description": "General logging facility for node with expanded capabilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyethereal/node-etlogger.git"
+  },
+  "keywords": [
+    "utilities",
+    "logging"
+  ],
+  "author": "Tom Seago <tom@eyethereal.com> (https://eyethereal.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eyethereal/node-etlogger/issues"
+  },
+  "homepage": "https://github.com/eyethereal/node-etlogger#readme",
+  "dependencies": {
+  }
+}
