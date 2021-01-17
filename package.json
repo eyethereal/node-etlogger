@@ -1,6 +1,6 @@
 {
   "name": "etlogger",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "General logging facility for node with expanded capabilities",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,5 @@
     "url": "https://github.com/eyethereal/node-etlogger/issues"
   },
   "homepage": "https://github.com/eyethereal/node-etlogger#readme",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
