@@ -1,6 +1,6 @@
 {
   "name": "etlogger",
-  "version": "0.5.6",
+  "version": "0.6.0",
   "description": "General logging facility for node with expanded capabilities",
   "main": "index.js",
   "scripts": {
