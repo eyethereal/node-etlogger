@@ -344,3 +344,5 @@ The `.getHeader()` function returns everything to the left side of the "|" that 
 The `.getMessage()` function returns everything to the right of the "|" which is the formatted args and flattened objects as appropriate. Note that if the configuration value `newlines` is set to `"indent"` which is the default than the message will contain the indention header and the pipe separators. Thus you may want to either set the `newlines` configuration to `"space"` or ignore this function if writing a structured log handler where this is inappropriate.
 
 Both of these getters will cache their results on a per-message basis for performance, so once they've been called they will return the memoized values. It's also worth noting that `.getMessage()` internally calls `.getHeader()`.
+
+TODO: Describe the other methods that a handler should really have.
